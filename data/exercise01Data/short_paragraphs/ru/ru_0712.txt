@@ -1,0 +1,1 @@
+.ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid #a2a9b1;box-decoration-break:clone;margin:0

@@ -1,0 +1,1 @@
+-0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}}@media screen

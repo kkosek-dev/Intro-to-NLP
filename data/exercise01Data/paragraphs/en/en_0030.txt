@@ -1,0 +1,1 @@
+The two most commonly used namespaces across all editions of Wikipedia are: The article namespace (which are the articles of the encyclopedia) and the category namespace (which are a collection of pages such as articles). In addition, there have been various books and reading list that are composed completely of articles and categories of a certain Wikipedia.
